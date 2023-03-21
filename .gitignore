@@ -1,0 +1,7 @@
+*.jar
+*.bin
+*.zip
+*.class
+/tmp
+/tmp/**/bin
+
